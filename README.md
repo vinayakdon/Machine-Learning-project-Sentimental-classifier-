@@ -3,7 +3,7 @@ A sentiment classification tool using machine learning in Python to analyze and 
 
 ## sklearn
 
-Data & Code associated with my tutorial on the sci-kit learn machine learning library in python
+Data & Code associated with sci-kit learn machine learning library in python
 
 Tutorial.ipynb is the file that I worked on during the video.
 
